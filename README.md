@@ -1,4 +1,4 @@
-# -Electricity-Billing-System
+# Electricity-Billing-System
 A Python-based electricity billing system calculates the total electricity bill based on the units consumed. It can also calculate additional tax to the final amount and generate a formatted bill receipt.
 
 ✨ Features
